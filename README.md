@@ -26,6 +26,8 @@ Hi there! I'm  Vishal Anand 👋
 </h3>
 </div>
 
+- Software Engineering Intern @ Glideology
+
 - Programmer Analyst Trainee @ Cognizant Technology Solutions
 
 - Digital Marketing Analyst Intern @ CrimsonCobalt Digital
