@@ -38,7 +38,7 @@ Hi there! I'm  Vishal Anand 👋
 
 - :zap: In my free time, I read tech and automobile articles, keep up with global events and current affairs, watch Formula One racing :racing_car:.
 
-- :mailbox:Feel free to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vishal_Anand_Vasudevan-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/vishal-anand-v/)) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishal97ad@gmail.com)
+- :mailbox:Feel free to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vishal_Anand_Vasudevan-blue?style=flat&logo=Linkedin&logoColor=white)][https://www.linkedin.com/in/vishal-anand-v/] [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishal97ad@gmail.com)
 
 <!--
 **VishalAnandV/VishalAnandV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
